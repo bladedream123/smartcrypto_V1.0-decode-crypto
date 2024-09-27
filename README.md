@@ -24,7 +24,8 @@
 
 python 软件安装目录\smartcrypto.py
 
- 
+ <img width="901" alt="图片1" src="https://github.com/user-attachments/assets/25da5a37-4f00-4f15-a3d1-cf0533112e18">
+
 
 
 
